@@ -8,4 +8,4 @@ The techniques used are: Finite State machine, Low pass filter and ring buffer.
 Sensors used: FC 28 Soil moisture Sensor
 
 DHT11 humidity and temperature sensor
-# Roof-top-farming-iot
+
